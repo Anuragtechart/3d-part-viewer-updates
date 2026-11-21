@@ -1,8 +1,9 @@
 {
-  "version": "1.0.3",
-  "url": "update-1.0.3.zip",
+  "version": "1.0.4",
+  "url": "update-1.0.4.zip",
   "notes": [
-    "Password screen removed: the app opens straight away",
-    "Includes everything from 1.0.2"
+    "New Hand mode: control the model with your hand through the webcam",
+    "Open hand turns, two hands zoom, pinch a part to move it, pinch empty space to pan",
+    "Hand tracking runs on your PC, nothing is uploaded"
   ]
 }

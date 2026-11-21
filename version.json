@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
-  "url": "update-1.0.7.zip",
+  "version": "1.0.8",
+  "url": "update-1.0.8.zip",
   "notes": [
-    "Right-click export of one sheet-metal part: round areas are now true arcs and edges are clean lines",
-    "Includes the 1.0.6 arc fix for the all-parts DXF export"
+    "Fixed: DXF export lost the outline of parts whose outline has only straight edges",
+    "DXF: polygon holes such as hexagons stay straight-sided"
   ]
 }

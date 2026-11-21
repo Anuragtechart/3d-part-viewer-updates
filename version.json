@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",
-  "url": "update-1.0.5.zip",
+  "version": "1.0.7",
+  "url": "update-1.0.7.zip",
   "notes": [
-    "Hand mode: pinch is stricter, so an open hand no longer grabs or pans by accident",
-    "Hand mode: new Reset parts button puts every part back"
+    "Right-click export of one sheet-metal part: round areas are now true arcs and edges are clean lines",
+    "Includes the 1.0.6 arc fix for the all-parts DXF export"
   ]
 }

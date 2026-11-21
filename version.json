@@ -1,9 +1,8 @@
 {
-  "version": "1.0.2",
-  "url": "update-1.0.2.zip",
+  "version": "1.0.3",
+  "url": "update-1.0.3.zip",
   "notes": [
-    "New password lock: set a password on first start, Lock button, Change/Remove password",
-    "Recovery key shown once so a forgotten password can be reset",
-    "Includes everything from 1.0.1 (Render tab, DXF per thickness, sketch tools)"
+    "Password screen removed: the app opens straight away",
+    "Includes everything from 1.0.2"
   ]
 }

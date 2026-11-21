@@ -1,9 +1,8 @@
 {
-  "version": "1.0.4",
-  "url": "update-1.0.4.zip",
+  "version": "1.0.5",
+  "url": "update-1.0.5.zip",
   "notes": [
-    "New Hand mode: control the model with your hand through the webcam",
-    "Open hand turns, two hands zoom, pinch a part to move it, pinch empty space to pan",
-    "Hand tracking runs on your PC, nothing is uploaded"
+    "Hand mode: pinch is stricter, so an open hand no longer grabs or pans by accident",
+    "Hand mode: new Reset parts button puts every part back"
   ]
 }

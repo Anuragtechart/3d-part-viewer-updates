@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "url": "update-1.0.1.zip",
+  "version": "1.0.2",
+  "url": "update-1.0.2.zip",
   "notes": [
-    "New Render tab: studio look, PNG pictures, turntable video, AI render hand-off",
-    "Laser-cut DXF export now makes one folder per sheet thickness",
-    "New sketch tools: Smart Dimension, Arc, Polygon, Slot, Ellipse, Trim, Offset, Mirror, Pattern, Move"
+    "New password lock: set a password on first start, Lock button, Change/Remove password",
+    "Recovery key shown once so a forgotten password can be reset",
+    "Includes everything from 1.0.1 (Render tab, DXF per thickness, sketch tools)"
   ]
 }

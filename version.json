@@ -1,9 +1,8 @@
 {
-  "version": "1.0.10",
-  "url": "update-1.0.10.zip",
+  "version": "1.0.11",
+  "url": "update-1.0.11.zip",
   "notes": [
-    "Hand mode: fist freezes, thumbs up fits view, peace sign switches view",
-    "Animated Gestures guide inside the hand box",
-    "Includes everything from 1.0.9"
+    "Hand mode box: buttons fit on one line",
+    "Includes everything from 1.0.10"
   ]
 }

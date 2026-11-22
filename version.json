@@ -1,8 +1,9 @@
 {
-  "version": "1.0.8",
-  "url": "update-1.0.8.zip",
+  "version": "1.0.10",
+  "url": "update-1.0.10.zip",
   "notes": [
-    "Fixed: DXF export lost the outline of parts whose outline has only straight edges",
-    "DXF: polygon holes such as hexagons stay straight-sided"
+    "Hand mode: fist freezes, thumbs up fits view, peace sign switches view",
+    "Animated Gestures guide inside the hand box",
+    "Includes everything from 1.0.9"
   ]
 }
